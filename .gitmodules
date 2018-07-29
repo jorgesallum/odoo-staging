@@ -1,0 +1,4 @@
+[submodule "hedra-digital/stock_inventory_import"]
+	path = hedra-digital/stock_inventory_import
+	url = git@github.com:hedra-digital/stock_inventory_import.git
+	branch = master
