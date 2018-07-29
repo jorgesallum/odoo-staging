@@ -12,7 +12,7 @@ import datetime
 
 _logger = logging.getLogger(__name__)
 
-os.environ["IUGU_API_TOKEN"] = "SEU_IUGU_API_TOKEN"
+os.environ["IUGU_API_TOKEN"] = "045399223d090bba3d2238431b418474"
 
 class IuguBoleto(models.Model, Invoice):
     _inherit = 'payment.acquirer'
