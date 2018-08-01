@@ -2,3 +2,8 @@
 	path = hedra-digital/stock_inventory_import
 	url = git@github.com:hedra-digital/stock_inventory_import.git
 	branch = master
+
+[submodule "GuiTadeu/Odoo-Cielo"]
+	path = GuiTadeu/Odoo-Cielo
+	url = git@github.com:GuiTadeu/Odoo-Cielo.git
+	branch = master
